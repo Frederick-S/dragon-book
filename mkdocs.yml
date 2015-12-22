@@ -1,0 +1,7 @@
+site_name: My Docs
+theme: readthedocs
+extra_javascript: ['https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML', 'mathjaxconfig.js']
+pages:
+- 'Introduction': 'index.md'
+- '1 Introduction':
+    - '1.1 Language Processors': '1-Introduction/1.1-Language-Processors.md'
