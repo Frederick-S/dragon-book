@@ -1,0 +1,21 @@
+digraph parseTree {
+	s1 [label="S"];
+	s2 [label="S"];
+	s3 [label="S"];
+	s4 [label="*"];
+	s1 -> s2[dir=none];
+	s1 -> s3[dir=none];
+	s1 -> s4[dir=none];
+	s5 [label="S"];
+	s6 [label="S"];
+	s7 [label="+"];
+	s8 [label="a"];
+	s2 -> s5[dir=none];
+	s2 -> s6[dir=none];
+	s2 -> s7[dir=none];
+	s3 -> s8[dir=none];
+	s9 [label="a"];
+	s10 [label="a"];
+	s5 -> s9[dir=none];
+	s6 -> s10[dir=none];
+}
