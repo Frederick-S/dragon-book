@@ -9,3 +9,4 @@ pages:
     - '1.6 Programming Language Basics': '1-Introduction/1.6-Programming-Language-Basics.md'
 - '2 A Simple Syntax-Directed Translator':
     - '2.2 Syntax Definition': '2-A-Simple-Syntax-Directed-Translator/2.2-Syntax-Definition.md'
+    - '2.3 Syntax-Directed Translation': '2-A-Simple-Syntax-Directed-Translator/2.3-Syntax-Directed-Translation.md'
