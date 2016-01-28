@@ -13,3 +13,5 @@ pages:
     - '2.4 Parsing': '2-A-Simple-Syntax-Directed-Translator/2.4-Parsing.md'
     - '2.6 Lexical Analysis': '2-A-Simple-Syntax-Directed-Translator/2.6-Lexical-Analysis.md'
     - '2.8 Intermediate Code Generation': '2-A-Simple-Syntax-Directed-Translator/2.8-Intermediate-Code-Generation.md'
+- '3 Lexical Analysis':
+    - '3.1 The Role of the Lexical Analyzer': '3-Lexical-Analysis/3.1-The-Role-of-The-Lexical-Analyzer.md'
