@@ -15,3 +15,4 @@ pages:
     - '2.8 Intermediate Code Generation': '2-A-Simple-Syntax-Directed-Translator/2.8-Intermediate-Code-Generation.md'
 - '3 Lexical Analysis':
     - '3.1 The Role of the Lexical Analyzer': '3-Lexical-Analysis/3.1-The-Role-of-The-Lexical-Analyzer.md'
+    - '3.3 Specification of Tokens': '3-Lexical-Analysis/3.3-Specification-of-Tokens.md'
